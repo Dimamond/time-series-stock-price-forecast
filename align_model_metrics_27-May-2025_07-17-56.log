@@ -1,0 +1,5 @@
+Model name: Ridge, MAPE score: 7.347389832368956, random_state: 42, hyperparameters: {'lags': [1], 'polynomial': 1, 'standard_scaller': False, 'ridge_alpha': 100}
+Model name: XGBoost, MAPE score: 6.303841411624968, random_state: 42, hyperparameters: {'lags': [1, 2, 3, 4, 5], 'max_depth': 12, 'reg_lambda': 10, 'eta': 0.3}
+Model name: LSTM, MAPE score: 10.653632765067087, random_state: 42, hyperparameters: {'encoder_hidden_size': 64, 'decoder_hidden_size': 128, 'context_size': 20, 'encoder_dropout': 0}
+Model name: Regression with ARIMA(1,0,0) errors, MAPE score: 5.099887960873884
+Model name: Prophet, MAPE score: 7.206555014735036, hyperparameters: {'changepoint_prior_scale': 0.25, 'n_changepoints': 50, 'changepoint_range': 0.95}
