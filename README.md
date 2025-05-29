@@ -13,3 +13,7 @@ Repository contains following files:
 9. nvidia_model_metrics_*.log - File for versioning of Nvidia models, with: name of model, score, and applied hyperparameters.
 10. align_model_metrics_*.log - File for versioning of Align Technology models, with: name of model, score, and applied hyperparameters.
 
+
+IMPORTANT: To view output of executed cells, please check files **Nvidia stock price forecast - saved output.html** and **Align stock price forecast - saved output.html**
+
+
